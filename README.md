@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Bootstrap  -  Bootstrap website template</h1>
-Bootstrap is a fully responsive Bootstrap website template, responsive for all devices, built using HTML, CSS, javaScript. and Bootstrap.
+Bootstrap is a fully responsive Bootstrap website template, responsive for all devices, built using HTML, CSS, javaScript and Bootstrap.
 <br />
 <br />
 <a href="https://ahmedabdalalim-3a.github.io/Bootstrap/"><strong>➥ Live Demo</strong></a>
