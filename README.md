@@ -12,7 +12,7 @@ Bootstrap is a fully responsive Bootstrap website template, responsive for all d
 
 <p>
    <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,ps&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,ps&perline=7" />
    </a>
 </p>
 
