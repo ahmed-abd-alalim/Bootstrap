@@ -3,7 +3,7 @@
 Bootstrap is a fully responsive Bootstrap website template, responsive for all devices, built using HTML, CSS, javaScript and Bootstrap 4
 <br />
 <br />
-<a href="https://ahmedabdalalim-3a.github.io/Bootstrap/"><strong>➥ Live Demo</strong></a>
+<a href="https://ahmed-abd-alalim.github.io/Bootstrap/"><strong>➥ Live Demo</strong></a>
 <br />
 <br />
 </div>
@@ -29,13 +29,13 @@ To install **Bootstrap**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/AhmedAbdAlalim-3A/Bootstrap.git
+sudo git clone https://github.com/ahmed-abd-alalim/Bootstrap.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/AhmedAbdAlalim-3A/Bootstrap.git
+git clone https://github.com/ahmed-abd-alalim/Bootstrap.git
 ```
 
 ## Contact
